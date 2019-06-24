@@ -1,0 +1,18 @@
+body {
+    background-repeat: no-repeat;
+    background-position: middle;
+    
+}
+
+.background {
+    background-image: url(./images/beach.jpg);
+    background-size: cover;
+    padding-top: 400%;
+    padding-bottom: 400%;
+    height: 1000px;
+    
+}
+
+.jumbotron.background.d-flex.justify-content-center.align-items-center.flex-column {
+    margin-bottom: 0;
+}
